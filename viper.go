@@ -43,7 +43,7 @@ import (
 	"github.com/spf13/afero"
 	"github.com/spf13/cast"
 	jww "github.com/spf13/jwalterweatherman"
-	"github.com/spf13/pflag"
+	"github.com/spatialcurrent/pflag"
 )
 
 // ConfigMarshalError happens when failing to marshal the configuration.
